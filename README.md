@@ -1,4 +1,4 @@
-# compound-interest-calculator
+# Compound-interest-calculator
 
 A basic compound interest calculator written in Java.
 
